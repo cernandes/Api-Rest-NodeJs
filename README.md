@@ -1,6 +1,7 @@
 # REST API NodeJS
 
-git
+REST API desenvolvida em NodeJS com Express integrado a um banco de dados relacional (MariaDB)
+
 ## Conteúdo
 
 - [Sobre](#sobre)
